@@ -17,3 +17,23 @@ The repository is organized as follows:
 - **`requirements.txt`**: List of Python packages and their versions required to run the code.
 - **`README.md`**: This document providing an overview of the project, its purpose, and instructions for running the code.
 
+## How to test the project
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/california-housing-prediction.git
+   ```
+
+2. Explore the Jupyter notebooks in the notebooks/ directory to understand each step of the machine learning pipeline.
+
+## Bibligraphy
+
+Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media.
+
+## Disclaimer
+
+This project is primarily intended for educational purposes. Due to the outdated nature of the dataset, the machine learning model's predictions may not accurately reflect current housing prices in California. Use the code and insights gained from this project as a foundation for further exploration and learning in the field of data science and machine learning.
+
+
+
