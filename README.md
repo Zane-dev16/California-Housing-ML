@@ -28,6 +28,8 @@ The repository is organized as follows:
 
 2. Explore the Jupyter notebooks in the notebooks/ directory to understand each step of the machine learning pipeline.
 
+**Note**: Notebooks generate data necessary for subsequent notebooks. However, the required datasets have been pre-generated, and you can run the notebooks in any order that suits your preferences.
+
 ## Bibligraphy
 
 Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media.
