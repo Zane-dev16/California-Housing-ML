@@ -15,6 +15,13 @@ The repository is organized as follows:
   - `03_data_preprocessing.ipynb`: Prepare the data for training by handling missing values, scaling features, and encoding categorical variables.
   - `04_model_training.ipynb`: Train machine learning models using various algorithms.
   - `05_model_evaluation.ipynb`: Evaluate the trained models and analyze their performance.
+
+- **`modules/`**: Custom Python modules to modularize the codebase.
+  - `preprocessing.py`: Contains functions for handling data preprocessing tasks. Used in `04_model_training.ipynb`.
+
+- **`models/`**: Contains the final trained model.
+  - `my_california_housing_model.pkl.gz`: The serialized and compressed form of the trained machine learning model.
+
 - **`requirements.txt`**: List of Python packages and their versions required to run the code.
 - **`README.md`**: This document providing an overview of the project, its purpose, and instructions for running the code.
 
