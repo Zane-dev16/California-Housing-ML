@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an end-to-end machine learning project focused on predicting housing prices in California. The dataset used for this project is sourced from Statlib and consists of housing data from the year 1990. Please note that due to the dataset's age, the model's predictions may not be proficient in forecasting current housing prices. However, this project serves as a valuable learning experience for various aspects of building a machine learning project.
+This repository contains an end-to-end machine learning project focused on predicting housing prices in California. The dataset used for this project is sourced from Statlib and consists of housing data from the year 1990. Please note that due to the dataset's age, the model's predictions may not be proficient in forecasting current housing prices. However, this project serves as my learning experience for various aspects of building a machine learning project.
 
 ## Project Structure
 
